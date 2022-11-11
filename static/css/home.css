@@ -2,8 +2,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: hsla(282, 58%, 47%, 1);
-    background: linear-gradient(90deg, hsla(282, 58%, 47%, 1) 0%, hsla(210, 80%, 29%, 1) 100%);
+    background: rgb(238, 211, 59);
+    background: linear-gradient(90deg, rgb(103, 220, 235) 0%, rgb(218, 56, 69) 100%);
 }
 
 h1 {
